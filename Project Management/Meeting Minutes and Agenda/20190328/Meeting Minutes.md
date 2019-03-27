@@ -53,6 +53,8 @@ Agenda Items
     - API Mediation Layer & Security (Petr G/Radek K/Petr P)
     - Foundation (CI/CD) (Mark/Steve/Mike/Nick)
     - Documentation (Brandon/Ashley/Jim/Jason/Alyson)
+      - Rocket: Dev not sure if java dataservices, RBAC, or API ML work will make it. Doc for dataservices and RBAC is drafted and in review.
+      - Rocket: Release notes have been written and reviewed.
 
 
 6. Legal Requirements
